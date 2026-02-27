@@ -3,4 +3,6 @@ Repositório feito para realizar atividade da faculdade sobre API com Arquitetur
 
 Tecnologias utilizadas:
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs, sql" />
+</p>
